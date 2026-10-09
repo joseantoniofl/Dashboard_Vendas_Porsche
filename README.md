@@ -1,15 +1,15 @@
 # Dashboard_Vendas_Porsche
 Dashboard de vendas de veículos da Porsche criado através do ChatGPT, utilizando o recurso Canvas
 
-# Prompt de comando
+## Prompt de comando
 Utilizando o recurso de canvas, renderize uma dashboard em html ao lado
 
-# Filtros
+Filtros
 - Modelo da Porsche
 - Veículo novo (zero miles) ou Semi-novo
 - Estados
 
-# Perguntas de Negócio
+Perguntas de Negócio
 - Qual principal modelo vendido?
 - Quais estados que mais tem vendas?
 - Qual tipo de carro mais vendido? Veículo novo ou seminovo?
