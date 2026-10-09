@@ -16,12 +16,13 @@ Perguntas de Negócio
 
 Sobre o ui/ux, se baseie no site oficial da Porsche Brasil: https://www.porsche.com/brazil/pt/
 
-#Tratamento da base
+##Tratamento da base
 - Excluir as colunas que não seriam utilizadas na construção da dashboard;
 - Transformação de números que era armazenados como texto, e atribuir os formatos corretos a estes.
 
-# Mudanças no arquivo
+## Mudanças no arquivo
 - Foi solicitado a mudança visual da frase "O desempenho por trás de cada Porsche.", no início da página;
 - Ajuste do tipo de moeda, a IA apresentou os dados em Real (R$), mas na verdade deveria ser em Dólar ($).
 
-Dashboard publicada: 
+##Dashboard publicada
+
