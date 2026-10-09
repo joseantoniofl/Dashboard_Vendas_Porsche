@@ -10,9 +10,9 @@ Filtros
 - Estados
 
 Perguntas de Negócio
-- Qual principal modelo vendido?
-- Quais estados que mais tem vendas?
-- Qual tipo de carro mais vendido? Veículo novo ou seminovo?
+- Qual principal modelo vendido? (obs.: Principal informação para saber qual modelo tem feito mais sucesso)
+- Quais estados que mais tem vendas? (obs.: Entender qual região do país tem apresentado melhores resultados e quais precisam realizar estudos para melhorar os desempenhos)
+- Qual tipo de carro mais vendido? Veículo novo ou seminovo? (obs.: Para saber se o mercado está preferindo comprar o carro novo ou usado)
 
 Sobre o ui/ux, se baseie no site oficial da Porsche Brasil: https://www.porsche.com/brazil/pt/
 
@@ -24,5 +24,5 @@ Sobre o ui/ux, se baseie no site oficial da Porsche Brasil: https://www.porsche.
 - Foi solicitado a mudança visual da frase "O desempenho por trás de cada Porsche.", no início da página;
 - Ajuste do tipo de moeda, a IA apresentou os dados em Real (R$), mas na verdade deveria ser em Dólar ($).
 
-##Dashboard publicada
-
+## Dashboard publicada
+https://joseantoniofl.github.io/Dashboard_Vendas_Porsche/
